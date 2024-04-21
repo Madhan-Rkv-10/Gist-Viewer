@@ -19,7 +19,7 @@ class _HomeScreenState extends ConsumerState<HomeScreen> {
 
     return Scaffold(
       appBar: AppBar(
-        title: const Text('GitHub Gists'),
+        title: const Text('Gist Viewer'),
         backgroundColor: const Color.fromARGB(255, 153, 84, 210),
       ),
       body: Column(
