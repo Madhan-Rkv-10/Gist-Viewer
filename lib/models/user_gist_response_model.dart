@@ -10,6 +10,9 @@ class GistList {
         .toList();
     return GistList(allGist: all);
   }
+  factory GistList.empty() {
+    return GistList(allGist: []);
+  }
 }
 
 class Gist {
