@@ -6,6 +6,7 @@ import 'screen/home_screen.dart';
 void main() {
   runApp(const ProviderScope(
       child: (MaterialApp(
+    debugShowCheckedModeBanner: false,
     home: HomeScreen(),
   ))));
 }
