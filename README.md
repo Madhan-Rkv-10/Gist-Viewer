@@ -17,7 +17,6 @@ This project is a starting point for a Flutter application.
 ![Image Three](/assets/three.png)
 ![Image Two](/assets/two.png)
 
-[Watch the Video](assets/your_video.mp4)
 
 
 For help getting started with Flutter development, view the
