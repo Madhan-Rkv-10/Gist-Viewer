@@ -17,6 +17,7 @@ class GistRepo {
   }
 }
 
+
 class MyException implements Exception {
   MyException(this.message);
   final String message;
